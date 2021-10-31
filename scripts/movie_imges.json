@@ -1,0 +1,2702 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "year": "1994",
+    "directors": ["Frank Darabont"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama"],
+    "average_rating": 9.3,
+    "no_of_votes": 2478593
+  },
+  {
+    "title": "The Dark Knight",
+    "year": "2008",
+    "directors": ["Christopher Nolan"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Crime", "Drama"],
+    "average_rating": 9,
+    "no_of_votes": 2432837
+  },
+  {
+    "title": "Inception",
+    "year": "2010",
+    "directors": ["Christopher Nolan"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 8.8,
+    "no_of_votes": 2183123
+  },
+  {
+    "title": "Fight Club",
+    "year": "1999",
+    "directors": ["David Fincher"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama"],
+    "average_rating": 8.8,
+    "no_of_votes": 1952668
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": "1994",
+    "directors": ["Quentin Tarantino"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY98_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama"],
+    "average_rating": 8.9,
+    "no_of_votes": 1918581
+  },
+  {
+    "title": "Forrest Gump",
+    "year": "1994",
+    "directors": ["Robert Zemeckis"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY98_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Romance"],
+    "average_rating": 8.8,
+    "no_of_votes": 1916370
+  },
+  {
+    "title": "The Matrix",
+    "year": "1999",
+    "directors": ["Lana Wachowski", "Lilly Wachowski"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Sci-Fi"],
+    "average_rating": 8.7,
+    "no_of_votes": 1771082
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": "2001",
+    "directors": ["Peter Jackson"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Drama"],
+    "average_rating": 8.8,
+    "no_of_votes": 1738951
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": "2003",
+    "directors": ["Peter Jackson"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Drama"],
+    "average_rating": 8.9,
+    "no_of_votes": 1717678
+  },
+  {
+    "title": "The Godfather",
+    "year": "1972",
+    "directors": ["Francis Ford Coppola"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY98_CR1,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama"],
+    "average_rating": 9.2,
+    "no_of_votes": 1712098
+  },
+  {
+    "title": "Interstellar",
+    "year": "2014",
+    "directors": ["Christopher Nolan"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Drama", "Sci-Fi"],
+    "average_rating": 8.6,
+    "no_of_votes": 1629177
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "year": "2012",
+    "directors": ["Christopher Nolan"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Crime"],
+    "average_rating": 8.4,
+    "no_of_votes": 1586000
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": "2002",
+    "directors": ["Peter Jackson"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Drama"],
+    "average_rating": 8.7,
+    "no_of_votes": 1552864
+  },
+  {
+    "title": "Se7en",
+    "year": "1995",
+    "directors": ["David Fincher"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama", "Mystery"],
+    "average_rating": 8.6,
+    "no_of_votes": 1525718
+  },
+  {
+    "title": "Django Unchained",
+    "year": "2012",
+    "directors": ["Quentin Tarantino"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Western"],
+    "average_rating": 8.4,
+    "no_of_votes": 1435997
+  },
+  {
+    "title": "Gladiator",
+    "year": "2000",
+    "directors": ["Ridley Scott"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Drama"],
+    "average_rating": 8.5,
+    "no_of_votes": 1406301
+  },
+  {
+    "title": "Batman Begins",
+    "year": "2005",
+    "directors": ["Christopher Nolan"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure"],
+    "average_rating": 8.2,
+    "no_of_votes": 1366399
+  },
+  {
+    "title": "Inglourious Basterds",
+    "year": "2009",
+    "directors": ["Quentin Tarantino"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Drama", "War"],
+    "average_rating": 8.3,
+    "no_of_votes": 1340858
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": "1991",
+    "directors": ["Jonathan Demme"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama", "Horror"],
+    "average_rating": 8.6,
+    "no_of_votes": 1339127
+  },
+  {
+    "title": "The Avengers",
+    "year": "2012",
+    "directors": ["Joss Whedon"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 8,
+    "no_of_votes": 1313072
+  },
+  {
+    "title": "Saving Private Ryan",
+    "year": "1998",
+    "directors": ["Steven Spielberg"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "War"],
+    "average_rating": 8.6,
+    "no_of_votes": 1298734
+  },
+  {
+    "title": "Star Wars: Episode IV - A New Hope",
+    "year": "1977",
+    "directors": ["George Lucas"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 8.6,
+    "no_of_votes": 1282287
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "year": "2013",
+    "directors": ["Martin Scorsese"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Biography", "Comedy", "Crime"],
+    "average_rating": 8.2,
+    "no_of_votes": 1275121
+  },
+  {
+    "title": "Schindler's List",
+    "year": "1993",
+    "directors": ["Steven Spielberg"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Biography", "Drama", "History"],
+    "average_rating": 8.9,
+    "no_of_votes": 1272610
+  },
+  {
+    "title": "The Prestige",
+    "year": "2006",
+    "directors": ["Christopher Nolan"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Mystery", "Sci-Fi"],
+    "average_rating": 8.5,
+    "no_of_votes": 1251096
+  },
+  {
+    "title": "The Departed",
+    "year": "2006",
+    "directors": ["Martin Scorsese"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "average_rating": 8.5,
+    "no_of_votes": 1246664
+  },
+  {
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": "1980",
+    "directors": ["Irvin Kershner"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 8.7,
+    "no_of_votes": 1210512
+  },
+  {
+    "title": "The Green Mile",
+    "year": "1999",
+    "directors": ["Frank Darabont"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama", "Fantasy"],
+    "average_rating": 8.6,
+    "no_of_votes": 1209937
+  },
+  {
+    "title": "Shutter Island",
+    "year": "2010",
+    "directors": ["Martin Scorsese"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Mystery", "Thriller"],
+    "average_rating": 8.2,
+    "no_of_votes": 1203891
+  },
+  {
+    "title": "The Godfather: Part II",
+    "year": "1974",
+    "directors": ["Francis Ford Coppola"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY98_CR1,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama"],
+    "average_rating": 9,
+    "no_of_votes": 1189293
+  },
+  {
+    "title": "Memento",
+    "year": "2000",
+    "directors": ["Christopher Nolan"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Mystery", "Thriller"],
+    "average_rating": 8.4,
+    "no_of_votes": 1174041
+  },
+  {
+    "title": "Avatar",
+    "year": "2009",
+    "directors": ["James Cameron"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 7.8,
+    "no_of_votes": 1160520
+  },
+  {
+    "title": "Back to the Future",
+    "year": "1985",
+    "directors": ["Robert Zemeckis"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Comedy", "Sci-Fi"],
+    "average_rating": 8.5,
+    "no_of_votes": 1118913
+  },
+  {
+    "title": "American Beauty",
+    "year": "1999",
+    "directors": ["Sam Mendes"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama"],
+    "average_rating": 8.3,
+    "no_of_votes": 1108027
+  },
+  {
+    "title": "Titanic",
+    "year": "1997",
+    "directors": ["James Cameron"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Romance"],
+    "average_rating": 7.8,
+    "no_of_votes": 1099425
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "year": "2014",
+    "directors": ["James Gunn"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Comedy"],
+    "average_rating": 8,
+    "no_of_votes": 1099312
+  },
+  {
+    "title": "Léon: The Professional",
+    "year": "1994",
+    "directors": ["Luc Besson"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Crime", "Drama"],
+    "average_rating": 8.5,
+    "no_of_votes": 1087597
+  },
+  {
+    "title": "Joker",
+    "year": "2019",
+    "directors": ["Todd Phillips"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "average_rating": 8.4,
+    "no_of_votes": 1083528
+  },
+  {
+    "title": "Goodfellas",
+    "year": "1990",
+    "directors": ["Martin Scorsese"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Biography", "Crime", "Drama"],
+    "average_rating": 8.7,
+    "no_of_votes": 1075979
+  },
+  {
+    "title": "American History X",
+    "year": "1998",
+    "directors": ["Tony Kaye"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama"],
+    "average_rating": 8.5,
+    "no_of_votes": 1071153
+  },
+  {
+    "title": "V for Vendetta",
+    "year": "2005",
+    "directors": ["James McTeigue"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Drama", "Sci-Fi"],
+    "average_rating": 8.1,
+    "no_of_votes": 1070065
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "year": "2003",
+    "directors": ["Quentin Tarantino"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Crime", "Drama"],
+    "average_rating": 8.1,
+    "no_of_votes": 1051255
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": "2003",
+    "directors": ["Gore Verbinski"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 8,
+    "no_of_votes": 1048539
+  },
+  {
+    "title": "WALL·E",
+    "year": "2008",
+    "directors": ["Andrew Stanton"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Adventure", "Family"],
+    "average_rating": 8.4,
+    "no_of_votes": 1047184
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "year": "1991",
+    "directors": ["James Cameron"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Sci-Fi"],
+    "average_rating": 8.5,
+    "no_of_votes": 1037935
+  },
+  {
+    "title": "The Usual Suspects",
+    "year": "1995",
+    "directors": ["Bryan Singer"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama", "Mystery"],
+    "average_rating": 8.5,
+    "no_of_votes": 1032967
+  },
+  {
+    "title": "The Truman Show",
+    "year": "1998",
+    "directors": ["Peter Weir"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Drama"],
+    "average_rating": 8.1,
+    "no_of_votes": 994980
+  },
+  {
+    "title": "Braveheart",
+    "year": "1995",
+    "directors": ["Mel Gibson"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Biography", "Drama", "History"],
+    "average_rating": 8.3,
+    "no_of_votes": 991964
+  },
+  {
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "year": "1983",
+    "directors": ["Richard Marquand"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 8.3,
+    "no_of_votes": 990426
+  },
+  {
+    "title": "Iron Man",
+    "year": "2008",
+    "directors": ["Jon Favreau"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7.9,
+    "no_of_votes": 988527
+  },
+  {
+    "title": "The Lion King",
+    "year": "1994",
+    "directors": ["Roger Allers", "Rob Minkoff"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Adventure", "Drama"],
+    "average_rating": 8.5,
+    "no_of_votes": 988370
+  },
+  {
+    "title": "Finding Nemo",
+    "year": "2003",
+    "directors": ["Andrew Stanton", "Lee Unkrich"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "average_rating": 8.1,
+    "no_of_votes": 987744
+  },
+  {
+    "title": "Up",
+    "year": "2009",
+    "directors": ["Pete Docter", "Bob Peterson"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "average_rating": 8.2,
+    "no_of_votes": 980027
+  },
+  {
+    "title": "Reservoir Dogs",
+    "year": "1992",
+    "directors": ["Quentin Tarantino"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "average_rating": 8.3,
+    "no_of_votes": 962389
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": "1975",
+    "directors": ["Milos Forman"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama"],
+    "average_rating": 8.7,
+    "no_of_votes": 957830
+  },
+  {
+    "title": "Deadpool",
+    "year": "2016",
+    "directors": ["Tim Miller"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Comedy"],
+    "average_rating": 8,
+    "no_of_votes": 954525
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": "2004",
+    "directors": ["Michel Gondry"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Romance", "Sci-Fi"],
+    "average_rating": 8.3,
+    "no_of_votes": 952330
+  },
+  {
+    "title": "Avengers: Endgame",
+    "year": "2019",
+    "directors": ["Anthony Russo", "Joe Russo"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Drama"],
+    "average_rating": 8.4,
+    "no_of_votes": 952040
+  },
+  {
+    "title": "The Shining",
+    "year": "1980",
+    "directors": ["Stanley Kubrick"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Horror"],
+    "average_rating": 8.4,
+    "no_of_votes": 949223
+  },
+  {
+    "title": "The Sixth Sense",
+    "year": "1999",
+    "directors": ["M. Night Shyamalan"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Mystery", "Thriller"],
+    "average_rating": 8.1,
+    "no_of_votes": 945773
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "year": "2018",
+    "directors": ["Anthony Russo", "Joe Russo"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 8.4,
+    "no_of_votes": 933832
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "year": "2015",
+    "directors": ["George Miller"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 8.1,
+    "no_of_votes": 933025
+  },
+  {
+    "title": "Toy Story",
+    "year": "1995",
+    "directors": ["John Lasseter"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "average_rating": 8.3,
+    "no_of_votes": 931154
+  },
+  {
+    "title": "Indiana Jones and the Raiders of the Lost Ark",
+    "year": "1981",
+    "directors": ["Steven Spielberg"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure"],
+    "average_rating": 8.4,
+    "no_of_votes": 920433
+  },
+  {
+    "title": "Gone Girl",
+    "year": "2014",
+    "directors": ["David Fincher"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Mystery", "Thriller"],
+    "average_rating": 8.1,
+    "no_of_votes": 914470
+  },
+  {
+    "title": "Jurassic Park",
+    "year": "1993",
+    "directors": ["Steven Spielberg"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 8.1,
+    "no_of_votes": 913650
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": "2007",
+    "directors": ["Ethan Coen", "Joel Coen"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "average_rating": 8.1,
+    "no_of_votes": 905954
+  },
+  {
+    "title": "Good Will Hunting",
+    "year": "1997",
+    "directors": ["Gus Van Sant"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Romance"],
+    "average_rating": 8.3,
+    "no_of_votes": 905364
+  },
+  {
+    "title": "Catch Me If You Can",
+    "year": "2002",
+    "directors": ["Steven Spielberg"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Biography", "Crime", "Drama"],
+    "average_rating": 8.1,
+    "no_of_votes": 893107
+  },
+  {
+    "title": "Star Wars: Episode VII - The Force Awakens",
+    "year": "2015",
+    "directors": ["J.J. Abrams"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7.8,
+    "no_of_votes": 887859
+  },
+  {
+    "title": "A Beautiful Mind",
+    "year": "2001",
+    "directors": ["Ron Howard"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Biography", "Drama"],
+    "average_rating": 8.2,
+    "no_of_votes": 884822
+  },
+  {
+    "title": "The Hunger Games",
+    "year": "2012",
+    "directors": ["Gary Ross"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7.2,
+    "no_of_votes": 875707
+  },
+  {
+    "title": "Monsters, Inc.",
+    "year": "2001",
+    "directors": ["Pete Docter", "David Silverman", "Lee Unkrich"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "average_rating": 8.1,
+    "no_of_votes": 854503
+  },
+  {
+    "title": "Alien",
+    "year": "1979",
+    "directors": ["Ridley Scott"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Horror", "Sci-Fi"],
+    "average_rating": 8.4,
+    "no_of_votes": 827684
+  },
+  {
+    "title": "Die Hard",
+    "year": "1988",
+    "directors": ["John McTiernan"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Thriller"],
+    "average_rating": 8.2,
+    "no_of_votes": 823887
+  },
+  {
+    "title": "The Terminator",
+    "year": "1984",
+    "directors": ["James Cameron"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Sci-Fi"],
+    "average_rating": 8,
+    "no_of_votes": 822975
+  },
+  {
+    "title": "Slumdog Millionaire",
+    "year": "2008",
+    "directors": ["Danny Boyle", "Loveleen Tandan"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmNjZWI3NzktYWI1Mi00OTAyLWJkNTYtMzUwYTFlZDA0Y2UwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Romance"],
+    "average_rating": 8,
+    "no_of_votes": 819898
+  },
+  {
+    "title": "Snatch",
+    "year": "2000",
+    "directors": ["Guy Ritchie"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY98_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Crime"],
+    "average_rating": 8.3,
+    "no_of_votes": 814982
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "year": "2011",
+    "directors": ["David Yates"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Fantasy", "Mystery"],
+    "average_rating": 8.1,
+    "no_of_votes": 807048
+  },
+  {
+    "title": "The Intouchables",
+    "year": "2011",
+    "directors": ["Olivier Nakache", "Éric Toledano"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Biography", "Comedy", "Drama"],
+    "average_rating": 8.5,
+    "no_of_votes": 801091
+  },
+  {
+    "title": "The Martian",
+    "year": "2015",
+    "directors": ["Ridley Scott"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Drama", "Sci-Fi"],
+    "average_rating": 8,
+    "no_of_votes": 799469
+  },
+  {
+    "title": "Requiem for a Dream",
+    "year": "2000",
+    "directors": ["Darren Aronofsky"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama"],
+    "average_rating": 8.3,
+    "no_of_votes": 798762
+  },
+  {
+    "title": "Avengers: Age of Ultron",
+    "year": "2015",
+    "directors": ["Joss Whedon"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7.3,
+    "no_of_votes": 795808
+  },
+  {
+    "title": "Iron Man 3",
+    "year": "2013",
+    "directors": ["Shane Black"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_UY98_CR1,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7.1,
+    "no_of_votes": 794900
+  },
+  {
+    "title": "Gravity",
+    "year": "2013",
+    "directors": ["Alfonso Cuarón"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Drama", "Sci-Fi"],
+    "average_rating": 7.7,
+    "no_of_votes": 794061
+  },
+  {
+    "title": "Toy Story 3",
+    "year": "2010",
+    "directors": ["Lee Unkrich"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_UY98_CR1,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "average_rating": 8.2,
+    "no_of_votes": 789331
+  },
+  {
+    "title": "A Clockwork Orange",
+    "year": "1971",
+    "directors": ["Stanley Kubrick"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama", "Sci-Fi"],
+    "average_rating": 8.3,
+    "no_of_votes": 788998
+  },
+  {
+    "title": "Thor",
+    "year": "2011",
+    "directors": ["Kenneth Branagh"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 7,
+    "no_of_votes": 787443
+  },
+  {
+    "title": "Captain America: The First Avenger",
+    "year": "2011",
+    "directors": ["Joe Johnston"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 6.9,
+    "no_of_votes": 786592
+  },
+  {
+    "title": "The Hobbit: An Unexpected Journey",
+    "year": "2012",
+    "directors": ["Peter Jackson"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Fantasy"],
+    "average_rating": 7.8,
+    "no_of_votes": 783211
+  },
+  {
+    "title": "Scarface",
+    "year": "1983",
+    "directors": ["Brian De Palma"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama"],
+    "average_rating": 8.3,
+    "no_of_votes": 782508
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "year": "2014",
+    "directors": ["Anthony Russo", "Joe Russo"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_UY98_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7.7,
+    "no_of_votes": 781727
+  },
+  {
+    "title": "The Pianist",
+    "year": "2002",
+    "directors": ["Roman Polanski"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY98_CR2,0,67,98_AL_.jpg",
+    "genre": ["Biography", "Drama", "Music"],
+    "average_rating": 8.5,
+    "no_of_votes": 775053
+  },
+  {
+    "title": "The Big Lebowski",
+    "year": "1998",
+    "directors": ["Joel Coen", "Ethan Coen"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Crime", "Sport"],
+    "average_rating": 8.1,
+    "no_of_votes": 769291
+  },
+  {
+    "title": "Whiplash",
+    "year": "2014",
+    "directors": ["Damien Chazelle"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Music"],
+    "average_rating": 8.5,
+    "no_of_votes": 769130
+  },
+  {
+    "title": "Donnie Darko",
+    "year": "2001",
+    "directors": ["Richard Kelly"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjZlZDlkYTktMmU1My00ZDBiLWFlNjEtYTBhNjVhOTM4ZjJjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Mystery", "Sci-Fi"],
+    "average_rating": 8,
+    "no_of_votes": 766556
+  },
+  {
+    "title": "Taxi Driver",
+    "year": "1976",
+    "directors": ["Martin Scorsese"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama"],
+    "average_rating": 8.2,
+    "no_of_votes": 765706
+  },
+  {
+    "title": "Iron Man 2",
+    "year": "2010",
+    "directors": ["Jon Favreau"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7,
+    "no_of_votes": 762042
+  },
+  {
+    "title": "300",
+    "year": "2006",
+    "directors": ["Zack Snyder"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWMxYTZlOTUtZDExMi00YzZmLTkwYTMtZmM2MmRjZmQ3OGY4XkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Drama"],
+    "average_rating": 7.6,
+    "no_of_votes": 759486
+  },
+  {
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "year": "1999",
+    "directors": ["George Lucas"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 6.5,
+    "no_of_votes": 758770
+  },
+  {
+    "title": "Sin City",
+    "year": "2005",
+    "directors": ["Frank Miller", "Quentin Tarantino", "Robert Rodriguez"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BODZmYjMwNzEtNzVhNC00ZTRmLTk2M2UtNzE1MTQ2ZDAxNjc2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Thriller"],
+    "average_rating": 8,
+    "no_of_votes": 751188
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "year": "2014",
+    "directors": ["Wes Anderson"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Comedy", "Crime"],
+    "average_rating": 8.1,
+    "no_of_votes": 749901
+  },
+  {
+    "title": "The Revenant",
+    "year": "2015",
+    "directors": ["Alejandro G. Iñárritu"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Drama"],
+    "average_rating": 8,
+    "no_of_votes": 747154
+  },
+  {
+    "title": "The Hangover",
+    "year": "2009",
+    "directors": ["Todd Phillips"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGQwZjg5YmYtY2VkNC00NzliLTljYTctNzI5NmU3MjE2ODQzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy"],
+    "average_rating": 7.7,
+    "no_of_votes": 745917
+  },
+  {
+    "title": "Gran Torino",
+    "year": "2008",
+    "directors": ["Clint Eastwood"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama"],
+    "average_rating": 8.1,
+    "no_of_votes": 744664
+  },
+  {
+    "title": "Star Wars: Episode III - Revenge of the Sith",
+    "year": "2005",
+    "directors": ["George Lucas"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_UY98_CR3,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 7.5,
+    "no_of_votes": 740667
+  },
+  {
+    "title": "12 Angry Men",
+    "year": "1957",
+    "directors": ["Sidney Lumet"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama"],
+    "average_rating": 9,
+    "no_of_votes": 733640
+  },
+  {
+    "title": "Man of Steel",
+    "year": "2013",
+    "directors": ["Zack Snyder"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7,
+    "no_of_votes": 732840
+  },
+  {
+    "title": "Spider-Man",
+    "year": "2002",
+    "directors": ["Sam Raimi"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7.3,
+    "no_of_votes": 729453
+  },
+  {
+    "title": "Amélie",
+    "year": "2001",
+    "directors": ["Jean-Pierre Jeunet"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Romance"],
+    "average_rating": 8.3,
+    "no_of_votes": 727437
+  },
+  {
+    "title": "Black Swan",
+    "year": "2010",
+    "directors": ["Darren Aronofsky"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Thriller"],
+    "average_rating": 8,
+    "no_of_votes": 726923
+  },
+  {
+    "title": "Blade Runner",
+    "year": "1982",
+    "directors": ["Ridley Scott"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Sci-Fi", "Thriller"],
+    "average_rating": 8.1,
+    "no_of_votes": 725846
+  },
+  {
+    "title": "City of God",
+    "year": "2002",
+    "directors": ["Fernando Meirelles", "Kátia Lund"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama"],
+    "average_rating": 8.6,
+    "no_of_votes": 724494
+  },
+  {
+    "title": "The Imitation Game",
+    "year": "2014",
+    "directors": ["Morten Tyldum"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTgwMzFiMWYtZDhlNS00ODNkLWJiODAtZDVhNzgyNzJhYjQ4L2ltYWdlXkEyXkFqcGdeQXVyNzEzOTYxNTQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Biography", "Drama", "Thriller"],
+    "average_rating": 8,
+    "no_of_votes": 721209
+  },
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "year": "1966",
+    "directors": ["Sergio Leone"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Western"],
+    "average_rating": 8.8,
+    "no_of_votes": 721044
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade",
+    "year": "1989",
+    "directors": ["Steven Spielberg"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure"],
+    "average_rating": 8.2,
+    "no_of_votes": 719985
+  },
+  {
+    "title": "Kill Bill: Vol. 2",
+    "year": "2004",
+    "directors": ["Quentin Tarantino"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmFiYmJmN2QtNWQwMi00MzliLThiOWMtZjQxNGRhZTQ1MjgyXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Crime", "Thriller"],
+    "average_rating": 8,
+    "no_of_votes": 716969
+  },
+  {
+    "title": "I Am Legend",
+    "year": "2007",
+    "directors": ["Francis Lawrence"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Drama"],
+    "average_rating": 7.2,
+    "no_of_votes": 716289
+  },
+  {
+    "title": "Captain America: Civil War",
+    "year": "2016",
+    "directors": ["Anthony Russo", "Joe Russo"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7.8,
+    "no_of_votes": 713590
+  },
+  {
+    "title": "Full Metal Jacket",
+    "year": "1987",
+    "directors": ["Stanley Kubrick"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "War"],
+    "average_rating": 8.3,
+    "no_of_votes": 704398
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": "2001",
+    "directors": ["Chris Columbus"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjQ3NWNlNmQtMTE5ZS00MDdmLTlkZjUtZTBlM2UxMGFiMTU3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Family", "Fantasy"],
+    "average_rating": 7.6,
+    "no_of_votes": 703967
+  },
+  {
+    "title": "Spirited Away",
+    "year": "2001",
+    "directors": ["Hayao Miyazaki"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Adventure", "Family"],
+    "average_rating": 8.6,
+    "no_of_votes": 698582
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "year": "2010",
+    "directors": ["Dean DeBlois", "Chris Sanders"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Action", "Adventure"],
+    "average_rating": 8.1,
+    "no_of_votes": 696702
+  },
+  {
+    "title": "Logan",
+    "year": "2017",
+    "directors": ["James Mangold"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Drama", "Sci-Fi"],
+    "average_rating": 8.1,
+    "no_of_votes": 693121
+  },
+  {
+    "title": "The Incredibles",
+    "year": "2004",
+    "directors": ["Brad Bird"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Action", "Adventure"],
+    "average_rating": 8,
+    "no_of_votes": 683728
+  },
+  {
+    "title": "Silver Linings Playbook",
+    "year": "2012",
+    "directors": ["David O. Russell"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM2MTI5NzA3MF5BMl5BanBnXkFtZTcwODExNTc0OA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Drama", "Romance"],
+    "average_rating": 7.7,
+    "no_of_votes": 682808
+  },
+  {
+    "title": "Black Panther",
+    "year": "2018",
+    "directors": ["Ryan Coogler"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7.3,
+    "no_of_votes": 681840
+  },
+  {
+    "title": "X-Men: Days of Future Past",
+    "year": "2014",
+    "directors": ["Bryan Singer"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGIzNWYzN2YtMjcwYS00YjQ3LWI2NjMtOTNiYTUyYjE2MGNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7.9,
+    "no_of_votes": 681745
+  },
+  {
+    "title": "Aliens",
+    "year": "1986",
+    "directors": ["James Cameron"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 8.3,
+    "no_of_votes": 681577
+  },
+  {
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": "2006",
+    "directors": ["Gore Verbinski"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 7.3,
+    "no_of_votes": 678233
+  },
+  {
+    "title": "Parasite",
+    "year": "2019",
+    "directors": ["Bong Joon Ho"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Drama", "Thriller"],
+    "average_rating": 8.6,
+    "no_of_votes": 674265
+  },
+  {
+    "title": "Ratatouille",
+    "year": "2007",
+    "directors": ["Brad Bird", "Jan Pinkava"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "average_rating": 8,
+    "no_of_votes": 672715
+  },
+  {
+    "title": "Star Wars: Episode II - Attack of the Clones",
+    "year": "2002",
+    "directors": ["George Lucas"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDAzM2M0Y2UtZjRmZi00MzVlLTg4MjEtOTE3NzU5ZDVlMTU5XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 6.5,
+    "no_of_votes": 668362
+  },
+  {
+    "title": "12 Years a Slave",
+    "year": "2013",
+    "directors": ["Steve McQueen"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Biography", "Drama", "History"],
+    "average_rating": 8.1,
+    "no_of_votes": 667420
+  },
+  {
+    "title": "Batman v Superman: Dawn of Justice",
+    "year": "2016",
+    "directors": ["Zack Snyder"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 6.4,
+    "no_of_votes": 666725
+  },
+  {
+    "title": "X-Men: First Class",
+    "year": "2011",
+    "directors": ["Matthew Vaughn"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7.7,
+    "no_of_votes": 664902
+  },
+  {
+    "title": "Skyfall",
+    "year": "2012",
+    "directors": ["Sam Mendes"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWZiNjE2OWItMTkwNy00ZWQzLWI0NTgtMWE0NjNiYTljN2Q1XkEyXkFqcGdeQXVyNzAwMjYxMzA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Thriller"],
+    "average_rating": 7.8,
+    "no_of_votes": 663205
+  },
+  {
+    "title": "Million Dollar Baby",
+    "year": "2004",
+    "directors": ["Clint Eastwood"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Sport"],
+    "average_rating": 8.1,
+    "no_of_votes": 660131
+  },
+  {
+    "title": "Trainspotting",
+    "year": "1996",
+    "directors": ["Danny Boyle"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama"],
+    "average_rating": 8.1,
+    "no_of_votes": 658473
+  },
+  {
+    "title": "The King's Speech",
+    "year": "2010",
+    "directors": ["Tom Hooper"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MTYxNA@@._V1_UY98_CR0,0,67,98_AL_.jpg",
+    "genre": ["Biography", "Drama", "History"],
+    "average_rating": 8,
+    "no_of_votes": 658182
+  },
+  {
+    "title": "The Social Network",
+    "year": "2010",
+    "directors": ["David Fincher"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGUyZDUxZjEtMmIzMC00MzlmLTg4MGItZWJmMzBhZjE0Mjc1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Biography", "Drama"],
+    "average_rating": 7.7,
+    "no_of_votes": 657849
+  },
+  {
+    "title": "Inside Out",
+    "year": "I 2015",
+    "directors": ["Pete Docter", "Ronnie Del Carmen"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "average_rating": 8.1,
+    "no_of_votes": 657568
+  },
+  {
+    "title": "District 9",
+    "year": "2009",
+    "directors": ["Neill Blomkamp"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmQ5MzFjYWMtMTMwNC00ZGU5LWI3YTQtYzhkMGExNGFlY2Q0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Sci-Fi", "Thriller"],
+    "average_rating": 7.9,
+    "no_of_votes": 657182
+  },
+  {
+    "title": "Life Is Beautiful",
+    "year": "1997",
+    "directors": ["Roberto Benigni"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Drama", "Romance"],
+    "average_rating": 8.6,
+    "no_of_votes": 655287
+  },
+  {
+    "title": "Suicide Squad",
+    "year": "2016",
+    "directors": ["David Ayer"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 5.9,
+    "no_of_votes": 654394
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "year": "2017",
+    "directors": ["Taika Waititi"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Comedy"],
+    "average_rating": 7.9,
+    "no_of_votes": 652547
+  },
+  {
+    "title": "Doctor Strange",
+    "year": "2016",
+    "directors": ["Scott Derrickson"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 7.5,
+    "no_of_votes": 649576
+  },
+  {
+    "title": "Once Upon a Time... In Hollywood",
+    "year": "2019",
+    "directors": ["Quentin Tarantino"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Drama"],
+    "average_rating": 7.6,
+    "no_of_votes": 646275
+  },
+  {
+    "title": "Fargo",
+    "year": "1996",
+    "directors": ["Joel Coen", "Ethan Coen"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "average_rating": 8.1,
+    "no_of_votes": 645852
+  },
+  {
+    "title": "Prisoners",
+    "year": "2013",
+    "directors": ["Denis Villeneuve"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama", "Mystery"],
+    "average_rating": 8.1,
+    "no_of_votes": 643503
+  },
+  {
+    "title": "Pan's Labyrinth",
+    "year": "2006",
+    "directors": ["Guillermo del Toro"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzJlMjI2NjEtY2FmNy00ZTE0LWJjYWEtZDg0YmY1ZDBlNmEyXkEyXkFqcGdeQXVyOTI5NTk5NTQ@._V1_UY98_CR6,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Fantasy", "War"],
+    "average_rating": 8.2,
+    "no_of_votes": 641027
+  },
+  {
+    "title": "Shrek",
+    "year": "2001",
+    "directors": ["Andrew Adamson", "Vicky Jenson"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGZhM2FhNTItODAzNi00YjA0LWEyN2UtNjJlYWQzYzU1MDg5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "average_rating": 7.9,
+    "no_of_votes": 640988
+  },
+  {
+    "title": "Arrival",
+    "year": "II 2016",
+    "directors": ["Denis Villeneuve"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Sci-Fi"],
+    "average_rating": 7.9,
+    "no_of_votes": 640571
+  },
+  {
+    "title": "The Hunger Games: Catching Fire",
+    "year": "2013",
+    "directors": ["Francis Lawrence"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Drama", "Mystery"],
+    "average_rating": 7.5,
+    "no_of_votes": 635274
+  },
+  {
+    "title": "Edge of Tomorrow",
+    "year": "2014",
+    "directors": ["Doug Liman"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7.9,
+    "no_of_votes": 634665
+  },
+  {
+    "title": "Psycho",
+    "year": "1960",
+    "directors": ["Alfred Hitchcock"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Horror", "Mystery", "Thriller"],
+    "average_rating": 8.5,
+    "no_of_votes": 634117
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "year": "1968",
+    "directors": ["Stanley Kubrick"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Sci-Fi"],
+    "average_rating": 8.3,
+    "no_of_votes": 632802
+  },
+  {
+    "title": "Apocalypse Now",
+    "year": "1979",
+    "directors": ["Francis Ford Coppola"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Mystery", "War"],
+    "average_rating": 8.4,
+    "no_of_votes": 632659
+  },
+  {
+    "title": "Thor: The Dark World",
+    "year": "2013",
+    "directors": ["Alan Taylor"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_UY98_CR1,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 6.8,
+    "no_of_votes": 631695
+  },
+  {
+    "title": "World War Z",
+    "year": "2013",
+    "directors": ["Marc Forster"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDQ4YzFmNzktMmM5ZC00MDZjLTk1OTktNDE2ODE4YjM2MjJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Horror"],
+    "average_rating": 7,
+    "no_of_votes": 628763
+  },
+  {
+    "title": "The Hobbit: The Desolation of Smaug",
+    "year": "2013",
+    "directors": ["Peter Jackson"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Fantasy"],
+    "average_rating": 7.8,
+    "no_of_votes": 624230
+  },
+  {
+    "title": "Now You See Me",
+    "year": "I 2013",
+    "directors": ["Louis Leterrier"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Mystery", "Thriller"],
+    "average_rating": 7.2,
+    "no_of_votes": 623369
+  },
+  {
+    "title": "Kingsman: The Secret Service",
+    "year": "2014",
+    "directors": ["Matthew Vaughn"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTM3ZTllNzItNTNmOS00NzJiLTg1MWMtMjMxNDc0NmJhODU5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Comedy"],
+    "average_rating": 7.7,
+    "no_of_votes": 619690
+  },
+  {
+    "title": "Casino Royale",
+    "year": "2006",
+    "directors": ["Martin Campbell"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDI5ZWJhOWItYTlhOC00YWNhLTlkNzctNDU5YTI1M2E1MWZhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Thriller"],
+    "average_rating": 8,
+    "no_of_votes": 618987
+  },
+  {
+    "title": "The Bourne Ultimatum",
+    "year": "2007",
+    "directors": ["Paul Greengrass"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGNiNmU2YTMtZmU4OS00MjM0LTlmYWUtMjVlYjAzYjE2N2RjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Mystery"],
+    "average_rating": 8,
+    "no_of_votes": 617760
+  },
+  {
+    "title": "The Curious Case of Benjamin Button",
+    "year": "2008",
+    "directors": ["David Fincher"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjQ0NTY2ODY2M15BMl5BanBnXkFtZTgwMjE4MzkxMDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Fantasy", "Romance"],
+    "average_rating": 7.8,
+    "no_of_votes": 616780
+  },
+  {
+    "title": "Pirates of the Caribbean: At World's End",
+    "year": "2007",
+    "directors": ["Gore Verbinski"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 7.1,
+    "no_of_votes": 616516
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 2",
+    "year": "2017",
+    "directors": ["James Gunn"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Comedy"],
+    "average_rating": 7.6,
+    "no_of_votes": 615080
+  },
+  {
+    "title": "Transformers",
+    "year": "2007",
+    "directors": ["Michael Bay"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg1NTU2OWEtM2UzYi00ZWRmLWEwMTktZWNjYWQ1NWM1OThjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7,
+    "no_of_votes": 614693
+  },
+  {
+    "title": "Wonder Woman",
+    "year": "2017",
+    "directors": ["Patty Jenkins"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzODQzYjQtNTczNC00MzZhLTg1ZWYtZDUxYmQ3ZTY4NzA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 7.4,
+    "no_of_votes": 614218
+  },
+  {
+    "title": "Ant-Man",
+    "year": "2015",
+    "directors": ["Peyton Reed"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Comedy"],
+    "average_rating": 7.3,
+    "no_of_votes": 611245
+  },
+  {
+    "title": "Heat",
+    "year": "1995",
+    "directors": ["Michael Mann"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGMwNzUwNjYtZWM5NS00YzMyLWI4NjAtNjM0ZDBiMzE1YWExXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "average_rating": 8.2,
+    "no_of_votes": 611129
+  },
+  {
+    "title": "Sherlock Holmes",
+    "year": "2009",
+    "directors": ["Guy Ritchie"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NjEwNjUxM15BMl5BanBnXkFtZTcwMzk0MjQ5Mg@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Mystery"],
+    "average_rating": 7.6,
+    "no_of_votes": 605149
+  },
+  {
+    "title": "Jurassic World",
+    "year": "2015",
+    "directors": ["Colin Trevorrow"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ3OTY4NjAtNzM5OS00N2ZhLWJlOWUtYzYwZjNmOWRiMzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7,
+    "no_of_votes": 603471
+  },
+  {
+    "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "year": "2014",
+    "directors": ["Alejandro G. Iñárritu"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Drama"],
+    "average_rating": 7.7,
+    "no_of_votes": 603303
+  },
+  {
+    "title": "Life of Pi",
+    "year": "2012",
+    "directors": ["Ang Lee"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Drama", "Fantasy"],
+    "average_rating": 7.9,
+    "no_of_votes": 602150
+  },
+  {
+    "title": "Dunkirk",
+    "year": "2017",
+    "directors": ["Christopher Nolan"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Drama", "History"],
+    "average_rating": 7.8,
+    "no_of_votes": 600408
+  },
+  {
+    "title": "Drive",
+    "year": "I 2011",
+    "directors": ["Nicolas Winding Refn"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjY5ZjQyMjMtMmEwOC00Nzc2LTllYTItMmU2MzJjNTg1NjY0XkEyXkFqcGdeQXVyNjQ1MTMzMDQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama"],
+    "average_rating": 7.8,
+    "no_of_votes": 598063
+  },
+  {
+    "title": "12 Monkeys",
+    "year": "1995",
+    "directors": ["Terry Gilliam"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2Y2OWU4MWMtNmIyMy00YzMyLWI0Y2ItMTcyZDc3MTdmZDU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Mystery", "Sci-Fi", "Thriller"],
+    "average_rating": 8,
+    "no_of_votes": 597608
+  },
+  {
+    "title": "Groundhog Day",
+    "year": "1993",
+    "directors": ["Harold Ramis"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Fantasy", "Romance"],
+    "average_rating": 8,
+    "no_of_votes": 597342
+  },
+  {
+    "title": "Into the Wild",
+    "year": "2007",
+    "directors": ["Sean Penn"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Biography", "Drama"],
+    "average_rating": 8.1,
+    "no_of_votes": 596698
+  },
+  {
+    "title": "Frozen",
+    "year": "I 2013",
+    "directors": ["Chris Buck", "Jennifer Lee"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "average_rating": 7.4,
+    "no_of_votes": 594094
+  },
+  {
+    "title": "Argo",
+    "year": "2012",
+    "directors": ["Ben Affleck"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzljNjY3MDYtYzc0Ni00YjU0LWIyNDUtNTE0ZDRiMGExMjZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Biography", "Drama", "Thriller"],
+    "average_rating": 7.7,
+    "no_of_votes": 592300
+  },
+  {
+    "title": "Star Wars: Episode VIII - The Last Jedi",
+    "year": "2017",
+    "directors": ["Rian Johnson"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 6.9,
+    "no_of_votes": 591586
+  },
+  {
+    "title": "Star Trek",
+    "year": "2009",
+    "directors": ["J.J. Abrams"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE5NDQ5OTE4Ml5BMl5BanBnXkFtZTcwOTE3NDIzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7.9,
+    "no_of_votes": 591151
+  },
+  {
+    "title": "X-Men",
+    "year": "2000",
+    "directors": ["Bryan Singer"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmIyMDk5NGYtYjQ5NS00ZWQxLTg2YzQtZDk1ZmM4ZDBlN2E3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7.4,
+    "no_of_votes": 589809
+  },
+  {
+    "title": "Ted",
+    "year": "2012",
+    "directors": ["Seth MacFarlane"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1OTU0ODcxMV5BMl5BanBnXkFtZTcwOTMxNTUwOA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy"],
+    "average_rating": 6.9,
+    "no_of_votes": 588180
+  },
+  {
+    "title": "Prometheus",
+    "year": "I 2012",
+    "directors": ["Ridley Scott"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Mystery", "Sci-Fi"],
+    "average_rating": 7,
+    "no_of_votes": 586402
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "year": "2002",
+    "directors": ["Chris Columbus"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxODgwMDkxNV5BMl5BanBnXkFtZTYwMDk2MDg3._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Family", "Fantasy"],
+    "average_rating": 7.4,
+    "no_of_votes": 585316
+  },
+  {
+    "title": "The Amazing Spider-Man",
+    "year": "2012",
+    "directors": ["Marc Webb"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 6.9,
+    "no_of_votes": 584450
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "year": "2004",
+    "directors": ["Alfonso Cuarón"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Family", "Fantasy"],
+    "average_rating": 7.9,
+    "no_of_votes": 583421
+  },
+  {
+    "title": "Rogue One: A Star Wars Story",
+    "year": "2016",
+    "directors": ["Gareth Edwards"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7.8,
+    "no_of_votes": 583224
+  },
+  {
+    "title": "Taken",
+    "year": "I 2008",
+    "directors": ["Pierre Morel"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM4NzQ0OTYyOF5BMl5BanBnXkFtZTcwMDkyNjQyMg@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Crime", "Thriller"],
+    "average_rating": 7.8,
+    "no_of_votes": 582305
+  },
+  {
+    "title": "John Wick",
+    "year": "2014",
+    "directors": ["Chad Stahelski", "David Leitch"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Crime", "Thriller"],
+    "average_rating": 7.4,
+    "no_of_votes": 581272
+  },
+  {
+    "title": "Spider-Man 2",
+    "year": "2004",
+    "directors": ["Sam Raimi"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY98_CR2,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7.3,
+    "no_of_votes": 579186
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "year": "2005",
+    "directors": ["Mike Newell"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Family", "Fantasy"],
+    "average_rating": 7.7,
+    "no_of_votes": 577236
+  },
+  {
+    "title": "Her",
+    "year": "2013",
+    "directors": ["Spike Jonze"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Romance", "Sci-Fi"],
+    "average_rating": 8,
+    "no_of_votes": 570734
+  },
+  {
+    "title": "Jaws",
+    "year": "1975",
+    "directors": ["Steven Spielberg"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Thriller"],
+    "average_rating": 8,
+    "no_of_votes": 567409
+  },
+  {
+    "title": "Spider-Man: Homecoming",
+    "year": "2017",
+    "directors": ["Jon Watts"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7.4,
+    "no_of_votes": 559806
+  },
+  {
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "year": "1998",
+    "directors": ["Guy Ritchie"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Comedy", "Crime"],
+    "average_rating": 8.2,
+    "no_of_votes": 557063
+  },
+  {
+    "title": "Constantine",
+    "year": "2005",
+    "directors": ["Francis Lawrence"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BODRiNmFhY2EtMGY2OC00YjI2LWIyYjQtYzFiM2ZhNjdhYzE4XkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Fantasy", "Horror"],
+    "average_rating": 7,
+    "no_of_votes": 323633
+  },
+  {
+    "title": "50/50",
+    "year": "2011",
+    "directors": ["Jonathan Levine"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjg3ODQyNTIyN15BMl5BanBnXkFtZTcwMjUzNzM5NQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Drama", "Romance"],
+    "average_rating": 7.6,
+    "no_of_votes": 322883
+  },
+  {
+    "title": "Jack Reacher",
+    "year": "2012",
+    "directors": ["Christopher McQuarrie"],
+    "poster": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+    "genre": ["Action", "Thriller"],
+    "average_rating": 7,
+    "no_of_votes": 322232
+  },
+  {
+    "title": "Shooter",
+    "year": "I 2007",
+    "directors": ["Antoine Fuqua"],
+    "poster": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+    "genre": ["Action", "Drama", "Thriller"],
+    "average_rating": 7.2,
+    "no_of_votes": 322095
+  },
+  {
+    "title": "Meet the Parents",
+    "year": "2000",
+    "directors": ["Jay Roach"],
+    "poster": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+    "genre": ["Comedy", "Romance"],
+    "average_rating": 7,
+    "no_of_votes": 321635
+  },
+  {
+    "title": "Burn After Reading",
+    "year": "2008",
+    "directors": ["Ethan Coen", "Joel Coen"],
+    "poster": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+    "genre": ["Comedy", "Crime", "Drama"],
+    "average_rating": 7,
+    "no_of_votes": 321607
+  },
+  {
+    "title": "Pearl Harbor",
+    "year": "2001",
+    "directors": ["Michael Bay"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MDc0MDc1NF5BMl5BanBnXkFtZTYwODI1ODY2._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Drama", "History"],
+    "average_rating": 6.2,
+    "no_of_votes": 321319
+  },
+  {
+    "title": "Eyes Wide Shut",
+    "year": "1999",
+    "directors": ["Stanley Kubrick"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2ZhNjI5MGItMzMwZS00N2VhLWE2NTEtNjFmZmRiYzZlNGVmXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_UY98_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Mystery", "Thriller"],
+    "average_rating": 7.4,
+    "no_of_votes": 319741
+  },
+  {
+    "title": "Fantastic Four",
+    "year": "I 2005",
+    "directors": ["Tim Story"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWU1ZjFjMTctYjA5ZC00YTBkLTkzZjUtZWEyMjgxY2MxYWM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 5.7,
+    "no_of_votes": 319646
+  },
+  {
+    "title": "Equilibrium",
+    "year": "2002",
+    "directors": ["Kurt Wimmer"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkzMzA1OTI3N15BMl5BanBnXkFtZTYwMzUyMDg5._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Drama", "Sci-Fi"],
+    "average_rating": 7.4,
+    "no_of_votes": 319244
+  },
+  {
+    "title": "Les Misérables",
+    "year": "2012",
+    "directors": ["Tom Hooper"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NDI3NDg4M15BMl5BanBnXkFtZTcwMjY5OTI1OA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Musical", "Romance"],
+    "average_rating": 7.6,
+    "no_of_votes": 318849
+  },
+  {
+    "title": "The Simpsons Movie",
+    "year": "2007",
+    "directors": ["David Silverman"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDczMTA5N15BMl5BanBnXkFtZTcwMzk1MzMzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "average_rating": 7.3,
+    "no_of_votes": 318549
+  },
+  {
+    "title": "How to Train Your Dragon 2",
+    "year": "2014",
+    "directors": ["Dean DeBlois"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Action", "Adventure"],
+    "average_rating": 7.8,
+    "no_of_votes": 318138
+  },
+  {
+    "title": "The Interview",
+    "year": "II 2014",
+    "directors": ["Evan Goldberg", "Seth Rogen"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQzMTcwMzgyMV5BMl5BanBnXkFtZTgwMzAyMzQ2MzE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Comedy"],
+    "average_rating": 6.5,
+    "no_of_votes": 317732
+  },
+  {
+    "title": "Click",
+    "year": "2006",
+    "directors": ["Frank Coraci"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA1MTUxNDY4NzReQTJeQWpwZ15BbWU2MDE3ODAxNw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Drama", "Fantasy"],
+    "average_rating": 6.4,
+    "no_of_votes": 317411
+  },
+  {
+    "title": "National Treasure",
+    "year": "2004",
+    "directors": ["Jon Turteltaub"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NTc4OTYxMF5BMl5BanBnXkFtZTcwMjk5NzUyMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Mystery"],
+    "average_rating": 6.9,
+    "no_of_votes": 316612
+  },
+  {
+    "title": "Hellboy",
+    "year": "2004",
+    "directors": ["Guillermo del Toro"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTc1ZWY0ZTEtZTVmNi00MTg0LTg4NmQtZTI4OWNiMmQ0MWZkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY98_CR2,0,67,98_AL_.jpg",
+    "genre": ["Action", "Fantasy"],
+    "average_rating": 6.8,
+    "no_of_votes": 316402
+  },
+  {
+    "title": "10 Things I Hate About You",
+    "year": "1999",
+    "directors": ["Gil Junger"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmVhZjhlZDYtMDAwZi00MDcyLTgzOTItOWNiZjY0YmE0MGE0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Drama", "Romance"],
+    "average_rating": 7.3,
+    "no_of_votes": 315881
+  },
+  {
+    "title": "Total Recall",
+    "year": "1990",
+    "directors": ["Paul Verhoeven"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzU1YmJjMGEtMjY4Yy00MTFlLWE3NTUtNzI3YjkwZTMxZjZmXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Sci-Fi", "Thriller"],
+    "average_rating": 7.5,
+    "no_of_votes": 315800
+  },
+  {
+    "title": "Once Upon a Time in the West",
+    "year": "1968",
+    "directors": ["Sergio Leone"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Western"],
+    "average_rating": 8.5,
+    "no_of_votes": 315683
+  },
+  {
+    "title": "Solo: A Star Wars Story",
+    "year": "2018",
+    "directors": ["Ron Howard"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTM2NTI3NTc3Nl5BMl5BanBnXkFtZTgwNzM1OTQyNTM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 6.9,
+    "no_of_votes": 314896
+  },
+  {
+    "title": "Hugo",
+    "year": "2011",
+    "directors": ["Martin Scorsese"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAzNzk5MzgyNF5BMl5BanBnXkFtZTcwOTE4NDU5Ng@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Family", "Fantasy"],
+    "average_rating": 7.5,
+    "no_of_votes": 313890
+  },
+  {
+    "title": "North by Northwest",
+    "year": "1959",
+    "directors": ["Alfred Hitchcock"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Mystery", "Thriller"],
+    "average_rating": 8.3,
+    "no_of_votes": 313471
+  },
+  {
+    "title": "The Nightmare Before Christmas",
+    "year": "1993",
+    "directors": ["Henry Selick"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWE4OTNiM2ItMjY4Ni00ZTViLWFiZmEtZGEyNGY2ZmNlMzIyXkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Family", "Fantasy"],
+    "average_rating": 8,
+    "no_of_votes": 313305
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "year": "1988",
+    "directors": ["Hayao Miyazaki"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY98_CR1,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Family", "Fantasy"],
+    "average_rating": 8.2,
+    "no_of_votes": 312983
+  },
+  {
+    "title": "Top Gun",
+    "year": "1986",
+    "directors": ["Tony Scott"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjQxYTA3ODItNzgxMy00N2Y2LWJlZGMtMTRlM2JkZjI1ZDhhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Drama"],
+    "average_rating": 6.9,
+    "no_of_votes": 312390
+  },
+  {
+    "title": "The Mummy Returns",
+    "year": "2001",
+    "directors": ["Stephen Sommers"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE2NzU1NTk2MV5BMl5BanBnXkFtZTgwMjIwMzcxMTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 6.4,
+    "no_of_votes": 311979
+  },
+  {
+    "title": "Real Steel",
+    "year": "2011",
+    "directors": ["Shawn Levy"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMzEzNjg0N15BMl5BanBnXkFtZTcwMzg4NDk0Ng@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Drama", "Sci-Fi"],
+    "average_rating": 7,
+    "no_of_votes": 311951
+  },
+  {
+    "title": "Chinatown",
+    "year": "1974",
+    "directors": ["Roman Polanski"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGMwYmY5ZmEtMzY1Yi00OWJiLTk1Y2MtMzI2MjBhYmZkNTQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Mystery", "Thriller"],
+    "average_rating": 8.2,
+    "no_of_votes": 310762
+  },
+  {
+    "title": "The Blind Side",
+    "year": "2009",
+    "directors": ["John Lee Hancock"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzOTE3ODM3OF5BMl5BanBnXkFtZTcwMzYyODI4Mg@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Biography", "Drama", "Sport"],
+    "average_rating": 7.6,
+    "no_of_votes": 309740
+  },
+  {
+    "title": "Mission: Impossible - Fallout",
+    "year": "2018",
+    "directors": ["Christopher McQuarrie"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Thriller"],
+    "average_rating": 7.7,
+    "no_of_votes": 309653
+  },
+  {
+    "title": "The Island",
+    "year": "2005",
+    "directors": ["Michael Bay"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNjk0NjM1ODReQTJeQWpwZ15BbWU3MDc1NjIxMzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Sci-Fi", "Thriller"],
+    "average_rating": 6.8,
+    "no_of_votes": 308615
+  },
+  {
+    "title": "John Wick: Chapter 3 - Parabellum",
+    "year": "2019",
+    "directors": ["Chad Stahelski"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Crime", "Thriller"],
+    "average_rating": 7.4,
+    "no_of_votes": 308544
+  },
+  {
+    "title": "The Proposal",
+    "year": "I 2009",
+    "directors": ["Anne Fletcher"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGM5YTNiYzktNmEwZC00ZjE5LWIyNzEtOTUwNDE0NmVkYzE3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Drama", "Romance"],
+    "average_rating": 6.7,
+    "no_of_votes": 308504
+  },
+  {
+    "title": "Fifty Shades of Grey",
+    "year": "2015",
+    "directors": ["Sam Taylor-Johnson"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MTM4NDAzOF5BMl5BanBnXkFtZTgwNTMwNjI0MzE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Romance", "Thriller"],
+    "average_rating": 4.1,
+    "no_of_votes": 307556
+  },
+  {
+    "title": "Scream",
+    "year": "1996",
+    "directors": ["Wes Craven"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2NjU5MTg5OF5BMl5BanBnXkFtZTgwOTkyMzQxMDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Horror", "Mystery"],
+    "average_rating": 7.3,
+    "no_of_votes": 307452
+  },
+  {
+    "title": "10 Cloverfield Lane",
+    "year": "2016",
+    "directors": ["Dan Trachtenberg"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMjczOTIxMV5BMl5BanBnXkFtZTgwOTUwMjI3NzE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Drama", "Horror"],
+    "average_rating": 7.2,
+    "no_of_votes": 306898
+  },
+  {
+    "title": "Bird Box",
+    "year": "2018",
+    "directors": ["Susanne Bier"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Horror", "Sci-Fi"],
+    "average_rating": 6.6,
+    "no_of_votes": 306653
+  },
+  {
+    "title": "Lucky Number Slevin",
+    "year": "2006",
+    "directors": ["Paul McGuigan"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjczMWI1YWMtYTZjOS00ZDc5LWE2MWItMTY3ZGUxNzFkNjJmL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "average_rating": 7.7,
+    "no_of_votes": 306482
+  },
+  {
+    "title": "Jurassic Park III",
+    "year": "2001",
+    "directors": ["Joe Johnston"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDMyZGJjOGItYjJkZC00MDVlLWE0Y2YtZGIwMDExYWE3MGQ3XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 5.9,
+    "no_of_votes": 305983
+  },
+  {
+    "title": "The Hunt",
+    "year": "2012",
+    "directors": ["Thomas Vinterberg"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_UY98_CR1,0,67,98_AL_.jpg",
+    "genre": ["Drama"],
+    "average_rating": 8.3,
+    "no_of_votes": 305651
+  },
+  {
+    "title": "Pretty Woman",
+    "year": "1990",
+    "directors": ["Garry Marshall"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjk2ODQzNDYxNV5BMl5BanBnXkFtZTgwMTcyNDg4NjE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Romance"],
+    "average_rating": 7.1,
+    "no_of_votes": 305650
+  },
+  {
+    "title": "Hitch",
+    "year": "I 2005",
+    "directors": ["Andy Tennant"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzYyNzM2NzM2NF5BMl5BanBnXkFtZTcwNjg5NTQzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Romance"],
+    "average_rating": 6.6,
+    "no_of_votes": 305545
+  },
+  {
+    "title": "Interview with the Vampire: The Vampire Chronicles",
+    "year": "1994",
+    "directors": ["Neil Jordan"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYThmYjJhMGItNjlmOC00ZDRiLWEzNjUtZjU4MjA3MzY0MzFmXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Fantasy", "Horror"],
+    "average_rating": 7.5,
+    "no_of_votes": 305479
+  },
+  {
+    "title": "Transformers: Age of Extinction",
+    "year": "2014",
+    "directors": ["Michael Bay"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEwNTg1MTA5Nl5BMl5BanBnXkFtZTgwOTg2OTM4MTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 5.6,
+    "no_of_votes": 305422
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "year": "1962",
+    "directors": ["Robert Mulligan"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama"],
+    "average_rating": 8.3,
+    "no_of_votes": 305214
+  },
+  {
+    "title": "Salt",
+    "year": "2010",
+    "directors": ["Phillip Noyce"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Thriller"],
+    "average_rating": 6.4,
+    "no_of_votes": 305052
+  },
+  {
+    "title": "The Book of Eli",
+    "year": "2010",
+    "directors": ["Albert Hughes", "Allen Hughes"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTE1OWI1YzgtZjEyMy00MjQ4LWE0NWMtYTNhYjc0ZDQ3ZGRkXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Drama"],
+    "average_rating": 6.9,
+    "no_of_votes": 304909
+  },
+  {
+    "title": "The Secret Life of Walter Mitty",
+    "year": "2013",
+    "directors": ["Ben Stiller"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BODYwNDYxNDk1Nl5BMl5BanBnXkFtZTgwOTAwMTk2MDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Comedy", "Drama"],
+    "average_rating": 7.3,
+    "no_of_votes": 304496
+  },
+  {
+    "title": "The Hunger Games: Mockingjay - Part 2",
+    "year": "2015",
+    "directors": ["Francis Lawrence"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjQzNDI2NTU1Ml5BMl5BanBnXkFtZTgwNTAyMDQ5NjE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 6.6,
+    "no_of_votes": 304324
+  },
+  {
+    "title": "Lord of War",
+    "year": "2005",
+    "directors": ["Andrew Niccol"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzZWE3MDAtZjZkMi00MzhlLTlhZDUtNmI2Zjg3OWVlZWI0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Crime", "Drama"],
+    "average_rating": 7.6,
+    "no_of_votes": 303952
+  },
+  {
+    "title": "The Hangover Part III",
+    "year": "2013",
+    "directors": ["Todd Phillips"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA0NjE1MzMzODheQTJeQWpwZ15BbWU3MDY4MTQ3Mzk@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Crime"],
+    "average_rating": 5.8,
+    "no_of_votes": 303358
+  },
+  {
+    "title": "Gone with the Wind",
+    "year": "1939",
+    "directors": ["Victor Fleming", "George Cukor", "Sam Wood"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "History", "Romance"],
+    "average_rating": 8.1,
+    "no_of_votes": 302463
+  },
+  {
+    "title": "The Nice Guys",
+    "year": "2016",
+    "directors": ["Shane Black"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BODNlNmU4MGItMzQwZi00NGQyLWEyZWItYjFkNmI0NWI4NjBhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Comedy", "Crime"],
+    "average_rating": 7.4,
+    "no_of_votes": 301831
+  },
+  {
+    "title": "There's Something About Mary",
+    "year": "1998",
+    "directors": ["Bobby Farrelly", "Peter Farrelly"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFlZjE5OTYtNWY0ZC00MzgzLTg5MjUtYTFkZjk2NjJkYjM0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Romance"],
+    "average_rating": 7.1,
+    "no_of_votes": 301610
+  },
+  {
+    "title": "Deja Vu",
+    "year": "2006",
+    "directors": ["Tony Scott"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzEwNTAwNjEwMV5BMl5BanBnXkFtZTYwMzgzMjA3._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Crime", "Sci-Fi"],
+    "average_rating": 7.1,
+    "no_of_votes": 301577
+  },
+  {
+    "title": "Apocalypto",
+    "year": "2006",
+    "directors": ["Mel Gibson"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzhmNGMzMDMtZDM0Yi00MmVmLWExYjAtZDhjZjcxZDM0MzJhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Drama"],
+    "average_rating": 7.8,
+    "no_of_votes": 300799
+  },
+  {
+    "title": "Magnolia",
+    "year": "1999",
+    "directors": ["Paul Thomas Anderson"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjk3YThkNDktNjZjMS00MTBiLTllNTAtYzkzMTU0N2QwYjJjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama"],
+    "average_rating": 8,
+    "no_of_votes": 300741
+  },
+  {
+    "title": "Kong: Skull Island",
+    "year": "2017",
+    "directors": ["Jordan Vogt-Roberts"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDg0OGM1NWEtNDEwOC00OTE2LTliZWEtNzg1MTZkNjFlMmNhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "average_rating": 6.6,
+    "no_of_votes": 300055
+  },
+  {
+    "title": "Annihilation",
+    "year": "I 2018",
+    "directors": ["Alex Garland"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Drama", "Horror"],
+    "average_rating": 6.8,
+    "no_of_votes": 300016
+  },
+  {
+    "title": "Bridge of Spies",
+    "year": "2015",
+    "directors": ["Steven Spielberg"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIxOTI0MjU5NV5BMl5BanBnXkFtZTgwNzM4OTk4NTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "History", "Thriller"],
+    "average_rating": 7.6,
+    "no_of_votes": 299931
+  },
+  {
+    "title": "From Dusk Till Dawn",
+    "year": "1996",
+    "directors": ["Robert Rodriguez"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjk3YmZhMDAtOWUzMS00YjE5LTkxNzAtY2I1NGZjMDA2ZTk0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Crime", "Horror"],
+    "average_rating": 7.2,
+    "no_of_votes": 299662
+  },
+  {
+    "title": "The Expendables 2",
+    "year": "2012",
+    "directors": ["Simon West"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg1YWRhNmQtMGI5Ny00MTI3LTg2OTItZWEzZGE3OGZjZDNhXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Thriller"],
+    "average_rating": 6.6,
+    "no_of_votes": 299645
+  },
+  {
+    "title": "RED",
+    "year": "2010",
+    "directors": ["Robert Schwentke"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg2Mjg1OTk0NF5BMl5BanBnXkFtZTcwMjQ4MTA3Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Comedy", "Crime"],
+    "average_rating": 7,
+    "no_of_votes": 299432
+  },
+  {
+    "title": "Moana",
+    "year": "I 2016",
+    "directors": ["Ron Clements", "John Musker", "Don Hall", "Chris Williams"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "average_rating": 7.6,
+    "no_of_votes": 299305
+  },
+  {
+    "title": "O Brother, Where Art Thou?",
+    "year": "2000",
+    "directors": ["Joel Coen", "Ethan Coen"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjZkOTdmMWItOTkyNy00MDdjLTlhNTQtYzU3MzdhZjA0ZDEyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Comedy", "Crime"],
+    "average_rating": 7.7,
+    "no_of_votes": 299152
+  },
+  {
+    "title": "A.I. Artificial Intelligence",
+    "year": "2001",
+    "directors": ["Steven Spielberg"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWU2NzEyMDYtM2MyOS00OGM3LWFkNzAtMzRiNzE2ZjU5ZTljXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Sci-Fi"],
+    "average_rating": 7.2,
+    "no_of_votes": 299071
+  },
+  {
+    "title": "3:10 to Yuma",
+    "year": "2007",
+    "directors": ["James Mangold"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BODE0NTcxNTQzNF5BMl5BanBnXkFtZTcwMzczOTIzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Crime", "Drama"],
+    "average_rating": 7.7,
+    "no_of_votes": 298963
+  },
+  {
+    "title": "Neighbors",
+    "year": "I 2014",
+    "directors": ["Nicholas Stoller"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTQ0OTkzODgyNF5BMl5BanBnXkFtZTgwOTA3OTE4MDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy"],
+    "average_rating": 6.3,
+    "no_of_votes": 298476
+  },
+  {
+    "title": "Taken 2",
+    "year": "2012",
+    "directors": ["Olivier Megaton"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkwNTQ0ODExOV5BMl5BanBnXkFtZTcwNjU3NDQwOA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Crime", "Thriller"],
+    "average_rating": 6.3,
+    "no_of_votes": 298176
+  },
+  {
+    "title": "Shazam!",
+    "year": "2019",
+    "directors": ["David F. Sandberg"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWZhZjE4NGQtODg5Ni00MjQ1LWJmMzAtNzQ2N2M1NzYzMDJkXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Comedy"],
+    "average_rating": 7,
+    "no_of_votes": 297937
+  },
+  {
+    "title": "The Wrestler",
+    "year": "2008",
+    "directors": ["Darren Aronofsky"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MjYyOTg4MF5BMl5BanBnXkFtZTcwNDc2MzQwMg@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Sport"],
+    "average_rating": 7.9,
+    "no_of_votes": 297561
+  },
+  {
+    "title": "Jumper",
+    "year": "2008",
+    "directors": ["Doug Liman"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEwOTkyOTI3M15BMl5BanBnXkFtZTcwNTQxMjU1MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 6.1,
+    "no_of_votes": 296475
+  },
+  {
+    "title": "Babel",
+    "year": "I 2006",
+    "directors": ["Alejandro G. Iñárritu"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTJkZDljNGYtNjRiNC00ZmY2LTg1NmItYTI1MTllNDQzMWVmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama"],
+    "average_rating": 7.4,
+    "no_of_votes": 296169
+  },
+  {
+    "title": "The Untouchables",
+    "year": "1987",
+    "directors": ["Brian De Palma"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTVjYWJmMWQtYWU4Ni00MWY3LWI2YmMtNTI5MDE0MWVmMmEzL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "average_rating": 7.9,
+    "no_of_votes": 295932
+  },
+  {
+    "title": "Seven Pounds",
+    "year": "2008",
+    "directors": ["Gabriele Muccino"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU0NzY0MTY5OF5BMl5BanBnXkFtZTcwODY3MDEwMg@@._V1_UY98_CR3,0,67,98_AL_.jpg",
+    "genre": ["Drama"],
+    "average_rating": 7.6,
+    "no_of_votes": 294619
+  },
+  {
+    "title": "Kingsman: The Golden Circle",
+    "year": "2017",
+    "directors": ["Matthew Vaughn"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ3OTgzMzY4NF5BMl5BanBnXkFtZTgwOTc4OTQyMzI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Comedy"],
+    "average_rating": 6.7,
+    "no_of_votes": 294363
+  },
+  {
+    "title": "Liar Liar",
+    "year": "1997",
+    "directors": ["Tom Shadyac"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjZlYmJjYWYtZDM0NS00YmZlLWIyMTAtMDY5ZTNjZTgwMDhjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Fantasy"],
+    "average_rating": 6.9,
+    "no_of_votes": 294059
+  },
+  {
+    "title": "The Transporter",
+    "year": "2002",
+    "directors": ["Louis Leterrier", "Corey Yuen"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk2NDc2MDAxN15BMl5BanBnXkFtZTYwNDc1NDY2._V1_UY98_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Crime", "Thriller"],
+    "average_rating": 6.8,
+    "no_of_votes": 293819
+  },
+  {
+    "title": "Contagion",
+    "year": "2011",
+    "directors": ["Steven Soderbergh"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MDk5MDc3OV5BMl5BanBnXkFtZTcwNzAyNTg0Ng@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Thriller"],
+    "average_rating": 6.8,
+    "no_of_votes": 293756
+  },
+  {
+    "title": "Insidious",
+    "year": "I 2010",
+    "directors": ["James Wan"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYyOTAxMDA0OF5BMl5BanBnXkFtZTcwNzgwNTc1NA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Horror", "Mystery", "Thriller"],
+    "average_rating": 6.8,
+    "no_of_votes": 293330
+  },
+  {
+    "title": "The Bourne Legacy",
+    "year": "2012",
+    "directors": ["Tony Gilroy"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc4Njk3MDM1Nl5BMl5BanBnXkFtZTcwODgyOTMxOA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Thriller"],
+    "average_rating": 6.6,
+    "no_of_votes": 292954
+  },
+  {
+    "title": "The Mist",
+    "year": "2007",
+    "directors": ["Frank Darabont"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjQyNDY1Ml5BMl5BanBnXkFtZTcwMTk1MDU1MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Horror", "Sci-Fi", "Thriller"],
+    "average_rating": 7.1,
+    "no_of_votes": 292500
+  },
+  {
+    "title": "Donnie Brasco",
+    "year": "1997",
+    "directors": ["Mike Newell"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzMzMDZkYWEtODIzNS00YjI3LTkxNTktOWEyZGM3ZWI2MWM4XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Biography", "Crime", "Drama"],
+    "average_rating": 7.7,
+    "no_of_votes": 292442
+  },
+  {
+    "title": "Shrek the Third",
+    "year": "2007",
+    "directors": ["Chris Miller", "Raman Hui"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTgyMjc3ODk2MV5BMl5BanBnXkFtZTcwMjY0MjEzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "average_rating": 6.1,
+    "no_of_votes": 292411
+  },
+  {
+    "title": "School of Rock",
+    "year": "2003",
+    "directors": ["Richard Linklater"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEwOTMzNjYzMl5BMl5BanBnXkFtZTcwNjczMTQyMQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Music"],
+    "average_rating": 7.1,
+    "no_of_votes": 292411
+  },
+  {
+    "title": "Notting Hill",
+    "year": "1999",
+    "directors": ["Roger Michell"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE5OTkwYzYtNDhlNC00MzljLTk1YTktY2IxZjliZmNjMjUzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Drama", "Romance"],
+    "average_rating": 7.1,
+    "no_of_votes": 292005
+  },
+  {
+    "title": "The Man from U.N.C.L.E.",
+    "year": "2015",
+    "directors": ["Guy Ritchie"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTZmMWFhYmQtZDE5YS00YzBlLWJlOGEtYzAwNGU1YzVlYjZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Comedy"],
+    "average_rating": 7.3,
+    "no_of_votes": 291639
+  },
+  {
+    "title": "Public Enemies",
+    "year": "2009",
+    "directors": ["Michael Mann"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGI4YTIxMDQtNDlmNC00ZDJhLWIyZGItM2QyODRiMTEzN2ViXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Biography", "Crime"],
+    "average_rating": 7,
+    "no_of_votes": 291071
+  },
+  {
+    "title": "Gattaca",
+    "year": "1997",
+    "directors": ["Andrew Niccol"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BODI3ZTc5NjktOGMyOC00NjYzLTgwZDYtYmQ4NDc1MmJjMjRlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Sci-Fi", "Thriller"],
+    "average_rating": 7.8,
+    "no_of_votes": 291063
+  },
+  {
+    "title": "Pitch Perfect",
+    "year": "2012",
+    "directors": ["Jason Moore"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMTMzNzE5N15BMl5BanBnXkFtZTcwNzg5NjM5Nw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Music", "Romance"],
+    "average_rating": 7.1,
+    "no_of_votes": 290759
+  },
+  {
+    "title": "The Dictator",
+    "year": "2012",
+    "directors": ["Larry Charles"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTlkOWYzZDYtNzQ1MS00YTNkLTkyYTItMjBmNjgyMDBlMjI4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy"],
+    "average_rating": 6.4,
+    "no_of_votes": 290680
+  },
+  {
+    "title": "Moonlight",
+    "year": "I 2016",
+    "directors": ["Barry Jenkins"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama"],
+    "average_rating": 7.4,
+    "no_of_votes": 290092
+  },
+  {
+    "title": "Beauty and the Beast",
+    "year": "I 2017",
+    "directors": ["Bill Condon"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUwNjUxMTM4NV5BMl5BanBnXkFtZTgwODExMDQzMTI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Adventure", "Family", "Fantasy"],
+    "average_rating": 7.1,
+    "no_of_votes": 289803
+  },
+  {
+    "title": "Serenity",
+    "year": "2005",
+    "directors": ["Joss Whedon"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWE2MDAwZjEtODEyOS00ZjYyLTgzNDUtYmNiY2VmNWRiMTQxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "average_rating": 7.8,
+    "no_of_votes": 289746
+  },
+  {
+    "title": "300: Rise of an Empire",
+    "year": "2014",
+    "directors": ["Noam Murro"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTEwNTU2MjAwMDdeQTJeQWpwZ15BbWU3MDk2Njc2Njk@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Drama"],
+    "average_rating": 6.2,
+    "no_of_votes": 289523
+  },
+  {
+    "title": "Alien 3",
+    "year": "1992",
+    "directors": ["David Fincher"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTNiYmQzNTctNzAyZC00ODY2LWE3ZjgtODU1NDA0NGI5ZDY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Action", "Horror", "Sci-Fi"],
+    "average_rating": 6.5,
+    "no_of_votes": 288505
+  },
+  {
+    "title": "Before Sunrise",
+    "year": "1995",
+    "directors": ["Richard Linklater"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Drama", "Romance"],
+    "average_rating": 8.1,
+    "no_of_votes": 288402
+  },
+  {
+    "title": "Ace Ventura: Pet Detective",
+    "year": "1994",
+    "directors": ["Tom Shadyac"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmVhNmFmOGYtZjgwNi00ZGQ0LThiMmQtOGZjMDUzNzJhMGIzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy"],
+    "average_rating": 6.9,
+    "no_of_votes": 288336
+  },
+  {
+    "title": "As Good as It Gets",
+    "year": "1997",
+    "directors": ["James L. Brooks"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWMxZTgzMWEtMTU0Zi00NDc5LWFkZjctMzUxNDIyNzZiMmNjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": ["Comedy", "Drama", "Romance"],
+    "average_rating": 7.7,
+    "no_of_votes": 288259
+  }
+]
