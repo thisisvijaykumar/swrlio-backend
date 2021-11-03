@@ -1,18 +1,17 @@
 import { Application } from "express";
 
-import Middlewares from "./../app/middlewares";
 import { authRoute } from "./../app/routes/auth";
 import {
-  movieUnauthorizedRoute,
   movieAuthorizedRoute,
 } from "../app/routes/movie";
 import { movieRatingByUserRoute } from "../app/routes/user-movie-rating";
+import UserValidate from "../app/middlewares/user";
+import MovieValidate from "../app/middlewares/movie";
 
 const Routes = (app: Application) => {
-  app.use("/api/ratings", Middlewares.validate, movieRatingByUserRoute);
-  app.use("/api/movies/noauth", movieUnauthorizedRoute); //For without Logged users
-  app.use("/api/movies/auth", Middlewares.validate, movieAuthorizedRoute); //For Logged users
-  app.use("/api/user", Middlewares.validate, movieRatingByUserRoute);
+  app.use("/api/ratings", UserValidate, movieRatingByUserRoute);
+  app.use("/api/movies", MovieValidate, movieAuthorizedRoute); 
+  app.use("/api/user", UserValidate, movieRatingByUserRoute);
   app.use("/api/auth", authRoute);
 };
 

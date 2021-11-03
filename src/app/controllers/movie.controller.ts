@@ -7,13 +7,26 @@ export default class MovieCtrl {
   public static async getAllMovies(req: Request, res: Response) {
     try {
       console.log("api call");
+      let data;
+      if (req["user_id"]) {
+        const options = {
+          limit: req.query.limit ?? 50,
+          query: req.query.query ?? "",
+          order: req.query.order ?? "ASC",
+          start: req.query.start ?? 0,
+          user_id: req["user_id"],
+        };
+        console.log(req.query, "api films call");
 
-      const data = await MovieSerivce.getAllMovies({
-        limit: req.query.limit ?? 50,
-        query: req.query.query ?? "",
-        order: req.query.order ?? "ASC",
-        start: req.query.start ?? 0,
-      });
+        data = await MovieSerivce.getMoviesWithUserRating(options);
+      } else {
+        data = await MovieSerivce.getAllMovies({
+          limit: req.query.limit ?? 50,
+          query: req.query.query ?? "",
+          order: req.query.order ?? "ASC",
+          start: req.query.start ?? 0,
+        });
+      }
       res.status(200).send({
         ...data,
         msg: "Successfully retreived movies",
@@ -28,7 +41,6 @@ export default class MovieCtrl {
   }
   public static async getMoviesWithUserRating(req: Request, res: Response) {
     try {
-
       const options = {
         limit: req.query.limit ?? 50,
         query: req.query.query ?? "",
@@ -36,7 +48,7 @@ export default class MovieCtrl {
         start: req.query.start ?? 0,
         user_id: req["user_id"],
       };
-      console.log(req.query,"api films call");
+      console.log(req.query, "api films call");
 
       const data = await MovieSerivce.getMoviesWithUserRating(options);
       res.status(200).send({
@@ -54,7 +66,6 @@ export default class MovieCtrl {
 
   public static async getMyListOfMovies(req: Request, res: Response) {
     try {
-
       const options = {
         limit: req.query.limit ?? 50,
         query: req.query.query ?? "",
@@ -62,7 +73,7 @@ export default class MovieCtrl {
         start: req.query.start ?? 0,
         user_id: req["user_id"],
       };
-      console.log(req.query,"api films call");
+      console.log(req.query, "api films call");
 
       const data = await MovieSerivce.getMyListOfMovies(options);
       res.status(200).send({
